@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Course Difficulty Predictor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bg-overlay"></div>
+
+    <main class="container">
+        <header class="header">
+            <h1>Predict AI</h1>
+            <p>Course Analysis & Difficulty System</p>
+        </header>
+
+        <section class="search-card glass-panel">
+            <div class="search-container">
+                
+                <div class="toggle-container">
+                    <input type="radio" id="toggle-degrees" name="course-type" value="degrees" checked>
+                    <label for="toggle-degrees" class="toggle-btn">University Degrees</label>
+
+                    <input type="radio" id="toggle-online" name="course-type" value="online">
+                    <label for="toggle-online" class="toggle-btn">Online Courses</label>
+                </div>
+
+                <label for="course-search" id="search-label">Search for a UG or PG Degree</label>
+                <div class="input-wrapper">
+                    <input type="text" id="course-search" placeholder="e.g., B.Tech, MBA, MBBS..." autocomplete="off">
+                    <div id="autocomplete-list" class="autocomplete-items hidden"></div>
+                </div>
+            </div>
+
+            <div id="result-container" class="result-container hidden">
+                <div id="loading-state" class="loading-state hidden">
+                    <div class="spinner"></div>
+                    <p>AI is fetching and analyzing course data...</p>
+                </div>
+
+                <div id="prediction-result" class="prediction-result hidden">
+                    <h2 id="result-course-name">Bachelor of Technology (B.Tech)</h2>
+                    <span id="result-course-type" class="type-badge">UG</span>
+                    
+                    <div class="score-badge" id="difficulty-badge">
+                        <span id="difficulty-level">Hard</span>
+                    </div>
+                    
+                    <div class="metrics">
+                        <div class="metric">
+                            <span class="metric-label" id="label-duration">Duration</span>
+                            <span class="metric-value" id="result-duration">4 Years</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label" id="label-subjects">Subjects per Sem</span>
+                            <span class="metric-value" id="result-subjects">5-6 Subjects</span>
+                        </div>
+                        <div class="metric full-width">
+                            <span class="metric-label" id="label-graduates">Approx. Yearly Graduates</span>
+                            <span class="metric-value" id="result-graduates">1,500,000+</span>
+                        </div>
+                    </div>
+                    
+                    <div class="ai-analysis-box">
+                        <h4>AI Analysis</h4>
+                        <p id="result-feedback" class="feedback-text"></p>
+                    </div>
+
+                    <button id="reset-btn" class="reset-btn">Search Another Course</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

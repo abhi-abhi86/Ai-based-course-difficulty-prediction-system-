@@ -1,0 +1,2412 @@
+[
+  {
+    "id": "btech",
+    "name": "Bachelor of Technology (B.Tech)",
+    "type": "UG",
+    "duration": "4 Years (8 Semesters)",
+    "subjectsPerSem": "5-6 Subjects + 2-3 Labs",
+    "graduatesYearly": "1,500,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "B.Tech requires strong foundational knowledge in mathematics and logical problem-solving. The workload is heavy with continuous assessments, projects, and practical labs. Time management is crucial."
+  },
+  {
+    "id": "be",
+    "name": "Bachelor of Engineering (B.E)",
+    "type": "UG",
+    "duration": "4 Years (8 Semesters)",
+    "subjectsPerSem": "5-6 Subjects + 2 Labs",
+    "graduatesYearly": "1,200,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "Similar to B.Tech, B.E has a demanding curriculum focusing heavily on theoretical engineering concepts and their practical applications."
+  },
+  {
+    "id": "bsc",
+    "name": "Bachelor of Science (B.Sc)",
+    "type": "UG",
+    "duration": "3 Years (6 Semesters)",
+    "subjectsPerSem": "3-4 Core Subjects + Labs",
+    "graduatesYearly": "2,000,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "B.Sc offers specialized knowledge in pure sciences. It requires regular study and lab work, but generally has a slightly more manageable workload than engineering degrees."
+  },
+  {
+    "id": "bcom",
+    "name": "Bachelor of Commerce (B.Com)",
+    "type": "UG",
+    "duration": "3 Years (6 Semesters)",
+    "subjectsPerSem": "5-6 Subjects",
+    "graduatesYearly": "2,500,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "B.Com focuses on accounting, economics, and business law. The difficulty is moderate, demanding good numerical ability and rote learning for theoretical subjects."
+  },
+  {
+    "id": "ba",
+    "name": "Bachelor of Arts (B.A)",
+    "type": "UG",
+    "duration": "3 Years (6 Semesters)",
+    "subjectsPerSem": "4-5 Subjects",
+    "graduatesYearly": "3,000,000+",
+    "difficultyLevel": "Easy to Medium",
+    "aiAnalysis": "B.A generally offers a flexible curriculum with a focus on humanities and social sciences. It requires extensive reading and essay writing rather than intensive daily assignments."
+  },
+  {
+    "id": "mbbs",
+    "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+    "type": "UG",
+    "duration": "5.5 Years (Includes 1 Year Internship)",
+    "subjectsPerSem": "Intensive Phase-wise Subjects + Clinics",
+    "graduatesYearly": "100,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "MBBS is extremely rigorous, demanding massive memorization, long clinical hours, and high emotional resilience. It is considered one of the toughest undergraduate courses."
+  },
+  {
+    "id": "bds",
+    "name": "Bachelor of Dental Surgery (BDS)",
+    "type": "UG",
+    "duration": "5 Years (Includes 1 Year Internship)",
+    "subjectsPerSem": "Intensive Subject Modules + Clinics",
+    "graduatesYearly": "30,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "BDS requires precision, extensive practical work, and high theoretical knowledge. The workload is very demanding, similar to MBBS."
+  },
+  {
+    "id": "barch",
+    "name": "Bachelor of Architecture (B.Arch)",
+    "type": "UG",
+    "duration": "5 Years (10 Semesters)",
+    "subjectsPerSem": "4-5 Subjects + Heavy Studio Work",
+    "graduatesYearly": "25,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "B.Arch involves extremely time-consuming design studio projects. It requires creativity, spatial reasoning, and continuous effort, often leading to very long working hours."
+  },
+  {
+    "id": "bca",
+    "name": "Bachelor of Computer Applications (BCA)",
+    "type": "UG",
+    "duration": "3 Years (6 Semesters)",
+    "subjectsPerSem": "5-6 Subjects + 1-2 Labs",
+    "graduatesYearly": "500,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "BCA focuses on programming and software development. It's practical-heavy but generally less mathematically rigorous than a full B.Tech in Computer Science."
+  },
+  {
+    "id": "bba",
+    "name": "Bachelor of Business Administration (BBA)",
+    "type": "UG",
+    "duration": "3 Years (6 Semesters)",
+    "subjectsPerSem": "5-6 Subjects",
+    "graduatesYearly": "600,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "BBA focuses on management theory, presentations, and case studies. The academic workload is balanced, with a high emphasis on soft skills and communication."
+  },
+  {
+    "id": "llb",
+    "name": "Bachelor of Laws (LLB)",
+    "type": "UG",
+    "duration": "3 Years (Post-Graduation) or 5 Years (Integrated)",
+    "subjectsPerSem": "5-6 Subjects",
+    "graduatesYearly": "150,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "LLB requires vast amounts of reading, critical analysis of case laws, and excellent memorization skills. The curriculum is dense and highly competitive."
+  },
+  {
+    "id": "mtech",
+    "name": "Master of Technology (M.Tech)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "3-4 Advanced Subjects + Thesis",
+    "graduatesYearly": "200,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "M.Tech involves deep specialization. While there are fewer subjects, they are highly advanced and research-oriented. The final year thesis is heavily demanding."
+  },
+  {
+    "id": "msc",
+    "name": "Master of Science (M.Sc)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "4-5 Subjects + Labs/Project",
+    "graduatesYearly": "600,000+",
+    "difficultyLevel": "Medium to Hard",
+    "aiAnalysis": "M.Sc dives deep into specific scientific domains. It demands strong analytical skills and significant time spent on laboratory research or theoretical proofs."
+  },
+  {
+    "id": "mcom",
+    "name": "Master of Commerce (M.Com)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "4-5 Subjects",
+    "graduatesYearly": "400,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "M.Com requires strong analytical skills in finance, accounting, and economics. The difficulty is manageable for students with a solid B.Com foundation."
+  },
+  {
+    "id": "ma",
+    "name": "Master of Arts (M.A)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "4-5 Subjects",
+    "graduatesYearly": "800,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "M.A involves extensive research, literature review, and academic writing. It is demanding in terms of reading volume and critical thinking rather than daily assignments."
+  },
+  {
+    "id": "mba",
+    "name": "Master of Business Administration (MBA)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "6-8 Subjects + Internships",
+    "graduatesYearly": "500,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "MBA programs are fast-paced and highly competitive. They require managing a heavy load of case studies, group projects, presentations, and networking."
+  },
+  {
+    "id": "mca",
+    "name": "Master of Computer Applications (MCA)",
+    "type": "PG",
+    "duration": "2 or 3 Years (4-6 Semesters)",
+    "subjectsPerSem": "5 Subjects + Practical Labs",
+    "graduatesYearly": "150,000+",
+    "difficultyLevel": "Medium to Hard",
+    "aiAnalysis": "MCA focuses on advanced software engineering and programming. It is intensive but very practical, requiring strong logical and coding skills."
+  },
+  {
+    "id": "md",
+    "name": "Doctor of Medicine (MD) / Master of Surgery (MS)",
+    "type": "PG",
+    "duration": "3 Years",
+    "subjectsPerSem": "Intensive Clinical Training + Thesis",
+    "graduatesYearly": "40,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "MD/MS programs are notoriously grueling. They involve extremely long hospital shifts (often 24-36 hours), massive responsibility, and rigorous academic research."
+  },
+  {
+    "id": "llm",
+    "name": "Master of Laws (LLM)",
+    "type": "PG",
+    "duration": "1 or 2 Years (2-4 Semesters)",
+    "subjectsPerSem": "3-4 Specialization Subjects + Dissertation",
+    "graduatesYearly": "20,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "LLM requires advanced legal research, deep understanding of jurisprudence, and a major dissertation. It is academically very challenging."
+  },
+  {
+    "id": "bpharm",
+    "name": "Bachelor of Pharmacy (B.Pharm)",
+    "type": "UG",
+    "duration": "4 Years (8 Semesters)",
+    "subjectsPerSem": "5-6 Subjects + Heavy Labs",
+    "graduatesYearly": "300,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "B.Pharm requires heavy memorization of chemical structures and pharmacology, coupled with extensive, time-consuming laboratory work."
+  },
+  {
+    "id": "coursera_1",
+    "name": "Machine Learning Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "165K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Machine Learning Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_2",
+    "name": "Data Science Professional Certificate (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "326K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Data Science Professional Certificate provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_3",
+    "name": "Python for Everybody (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "488K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Python for Everybody provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_4",
+    "name": "Google IT Support Professional Certificate (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "295K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Google IT Support Professional Certificate provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_5",
+    "name": "Deep Learning Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "304K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Deep Learning Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_6",
+    "name": "IBM Data Science Professional Certificate (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "449K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on IBM Data Science Professional Certificate provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_7",
+    "name": "Applied Data Science with Python (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "184K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Applied Data Science with Python provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_8",
+    "name": "Full-Stack Web Development with React (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "349K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Full-Stack Web Development with React provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_9",
+    "name": "Excel Skills for Business (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "395K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Excel Skills for Business provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_10",
+    "name": "AI For Everyone (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "120K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on AI For Everyone provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_11",
+    "name": "Google Data Analytics Professional Certificate (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "474K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Google Data Analytics Professional Certificate provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_12",
+    "name": "Meta Front-End Developer (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "237K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Meta Front-End Developer provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_13",
+    "name": "Meta Back-End Developer (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "388K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Meta Back-End Developer provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_14",
+    "name": "Google UX Design Professional Certificate (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "46K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Google UX Design Professional Certificate provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_15",
+    "name": "Google Project Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "378K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Google Project Management provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_16",
+    "name": "IBM Cybersecurity Analyst (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "56K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on IBM Cybersecurity Analyst provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_17",
+    "name": "AWS Fundamentals (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "465K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on AWS Fundamentals provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_18",
+    "name": "Cloud Computing Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "33K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Cloud Computing Specialization provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_19",
+    "name": "Cybersecurity for Everyone (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "25K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Cybersecurity for Everyone provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_20",
+    "name": "Introduction to Data Science (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "132K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Introduction to Data Science provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_21",
+    "name": "Mathematics for Machine Learning (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "240K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Mathematics for Machine Learning provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_22",
+    "name": "Natural Language Processing (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "257K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Natural Language Processing provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_23",
+    "name": "TensorFlow in Practice (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "50K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on TensorFlow in Practice provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_24",
+    "name": "Introduction to Psychology (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "64K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Introduction to Psychology provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_25",
+    "name": "The Science of Well-Being (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "322K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on The Science of Well-Being provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_26",
+    "name": "Financial Markets (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "445K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Financial Markets provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_27",
+    "name": "Bitcoin and Cryptocurrency Technologies (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "178K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Bitcoin and Cryptocurrency Technologies provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_28",
+    "name": "Blockchain Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "167K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Blockchain Specialization provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_29",
+    "name": "Business Foundations Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "303K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Business Foundations Specialization provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_30",
+    "name": "Digital Marketing Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "63K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Digital Marketing Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_31",
+    "name": "Entrepreneurship Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "358K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Entrepreneurship Specialization provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_32",
+    "name": "Introduction to Philosophy (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "361K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Introduction to Philosophy provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_33",
+    "name": "Learning How to Learn (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "54K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Learning How to Learn provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_34",
+    "name": "English for Career Development (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "220K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on English for Career Development provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_35",
+    "name": "Social Psychology (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "320K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Social Psychology provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_36",
+    "name": "Introduction to Marketing (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "110K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Introduction to Marketing provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_37",
+    "name": "Successful Negotiation (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "164K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Successful Negotiation provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_38",
+    "name": "Graphic Design Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "237K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Graphic Design Specialization provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_39",
+    "name": "UI / UX Design Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "276K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on UI / UX Design Specialization provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_40",
+    "name": "Game Design and Development (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "124K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Game Design and Development provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_41",
+    "name": "Modern Art & Ideas (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "424K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Modern Art & Ideas provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_42",
+    "name": "Music Production Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "74K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Music Production Specialization provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_43",
+    "name": "Creative Writing Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "371K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Creative Writing Specialization provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_44",
+    "name": "Photography Basics and Beyond (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "408K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Photography Basics and Beyond provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_45",
+    "name": "Introduction to Food and Health (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "385K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Introduction to Food and Health provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_46",
+    "name": "Stanford Introduction to Food and Health (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "370K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Stanford Introduction to Food and Health provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_47",
+    "name": "Epidemiology in Public Health Practice (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "315K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Epidemiology in Public Health Practice provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_48",
+    "name": "Global Health (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "368K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Global Health provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_49",
+    "name": "Anatomy Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "481K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Anatomy Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_50",
+    "name": "Bioinformatics (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "319K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Bioinformatics provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_51",
+    "name": "Introduction to Genetics and Evolution (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "468K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Introduction to Genetics and Evolution provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_52",
+    "name": "Climate Change and Health (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "453K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Climate Change and Health provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_53",
+    "name": "Renewable Energy and Green Building (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "480K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Renewable Energy and Green Building provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_54",
+    "name": "Sustainable Development (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "267K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Sustainable Development provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_55",
+    "name": "Introduction to Sustainability (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "158K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Introduction to Sustainability provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_56",
+    "name": "Supply Chain Management Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "366K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Supply Chain Management Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_57",
+    "name": "Project Management Principles (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "113K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Project Management Principles provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_58",
+    "name": "Agile Development Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "347K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Agile Development Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_59",
+    "name": "Software Product Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "267K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Software Product Management provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_60",
+    "name": "Product Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "208K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Product Management provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_61",
+    "name": "Data Engineering with Google Cloud (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "477K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Data Engineering with Google Cloud provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_62",
+    "name": "Architecting with Google Compute Engine (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "422K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Architecting with Google Compute Engine provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_63",
+    "name": "IBM Data Engineering (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "60K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on IBM Data Engineering provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_64",
+    "name": "Data Warehouse Engineering (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "462K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Data Warehouse Engineering provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_65",
+    "name": "Big Data Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "186K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Big Data Specialization provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_66",
+    "name": "Machine Learning Engineering for Production (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "120K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Machine Learning Engineering for Production provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_67",
+    "name": "Advanced Machine Learning (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "417K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Advanced Machine Learning provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_68",
+    "name": "Reinforcement Learning Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "70K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Reinforcement Learning Specialization provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_69",
+    "name": "Computer Vision Basics (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "177K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Computer Vision Basics provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_70",
+    "name": "Robotics Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "196K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Robotics Specialization provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_71",
+    "name": "Internet of Things (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "298K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Internet of Things provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_72",
+    "name": "Self-Driving Cars Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "3 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "168K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Self-Driving Cars Specialization provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_73",
+    "name": "C++ For C Programmers (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "499K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on C++ For C Programmers provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_74",
+    "name": "Java Programming and Software Engineering (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "214K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Java Programming and Software Engineering provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_75",
+    "name": "Object Oriented Programming in Java (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "354K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Object Oriented Programming in Java provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_76",
+    "name": "Ruby on Rails (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "24K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Ruby on Rails provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_77",
+    "name": "Angular Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "287K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Angular Specialization provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_78",
+    "name": "Vue.js Basics (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "465K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Vue.js Basics provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_79",
+    "name": "Django for Everybody (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "499K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Django for Everybody provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_80",
+    "name": "Flask Fundamentals (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "312K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Flask Fundamentals provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_81",
+    "name": "Node.js Developer Course (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "290K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Node.js Developer Course provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_82",
+    "name": "Express and MongoDB (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "479K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Express and MongoDB provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_83",
+    "name": "Database Management Essentials (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "386K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Database Management Essentials provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_84",
+    "name": "SQL for Data Science (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "5K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on SQL for Data Science provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_85",
+    "name": "Data Modeling (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "118K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Data Modeling provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_86",
+    "name": "Business Analytics Specialization (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "6 Months",
+    "subjectsPerSem": "3-6 Courses",
+    "graduatesYearly": "329K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Business Analytics Specialization provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_87",
+    "name": "Financial Accounting (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "497K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Financial Accounting provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_88",
+    "name": "Corporate Finance (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "459K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Corporate Finance provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_89",
+    "name": "Investment Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "232K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Investment Management provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_90",
+    "name": "Behavioral Finance (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "347K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Behavioral Finance provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_91",
+    "name": "Human Resource Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "94K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Human Resource Management provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_92",
+    "name": "Organizational Leadership (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "389K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This online program on Organizational Leadership provides high-quality video lectures and assignments. It is beginner-friendly and requires minimal prior knowledge."
+  },
+  {
+    "id": "coursera_93",
+    "name": "Strategic Leadership and Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "224K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Strategic Leadership and Management provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_94",
+    "name": "Public Relations (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "211K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Public Relations provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_95",
+    "name": "Crisis Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "128K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Crisis Management provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_96",
+    "name": "Operations Management (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "364K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Operations Management provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_97",
+    "name": "Six Sigma Yellow Belt (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "398K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Six Sigma Yellow Belt provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "coursera_98",
+    "name": "Lean Six Sigma Green Belt (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "491K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This online program on Lean Six Sigma Green Belt provides high-quality video lectures and assignments. It is an advanced track designed for professionals with substantial background knowledge."
+  },
+  {
+    "id": "coursera_99",
+    "name": "Supply Chain Logistics (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "478K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Supply Chain Logistics provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_100",
+    "name": "Healthcare Organization and Delivery (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "432K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This online program on Healthcare Organization and Delivery provides high-quality video lectures and assignments. It requires a consistent weekly commitment and covers intermediate concepts."
+  },
+  {
+    "id": "coursera_101",
+    "name": "Global Diplomacy (Coursera)",
+    "type": "Online / Coursera",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "411K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This online program on Global Diplomacy provides high-quality video lectures and assignments. It involves complex topics and rigorous hands-on projects."
+  },
+  {
+    "id": "bdes",
+    "name": "Bachelor of Design (B.Des)",
+    "type": "UG",
+    "duration": "4 Years (8 Semesters)",
+    "subjectsPerSem": "Heavy Studio Work + 3-4 Subjects",
+    "graduatesYearly": "20,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "B.Des is highly demanding creatively. It requires extensive studio hours, portfolio building, and continuous project evaluations rather than traditional written exams."
+  },
+  {
+    "id": "mdes",
+    "name": "Master of Design (M.Des)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "Specialized Studio Work + Thesis",
+    "graduatesYearly": "5,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "M.Des requires deep specialization in fields like industrial or UI/UX design. The thesis project is rigorous and heavily dictates the final grade."
+  },
+  {
+    "id": "bvsc",
+    "name": "Bachelor of Veterinary Science (B.V.Sc)",
+    "type": "UG",
+    "duration": "5.5 Years (Includes Internship)",
+    "subjectsPerSem": "Intensive Anatomy/Biology + Clinics",
+    "graduatesYearly": "8,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "B.V.Sc is comparable to MBBS in intensity. It demands massive memorization across multiple animal species and extensive clinical rotations."
+  },
+  {
+    "id": "bpt",
+    "name": "Bachelor of Physiotherapy (BPT)",
+    "type": "UG",
+    "duration": "4.5 Years (Includes Internship)",
+    "subjectsPerSem": "5-6 Subjects + Clinical Postings",
+    "graduatesYearly": "35,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "BPT involves deep knowledge of human anatomy, kinesiology, and biomechanics. Practical skills and clinical hours are heavily emphasized."
+  },
+  {
+    "id": "mpt",
+    "name": "Master of Physiotherapy (MPT)",
+    "type": "PG",
+    "duration": "2 Years",
+    "subjectsPerSem": "Specialized Subjects + Research",
+    "graduatesYearly": "10,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "MPT dives deep into specialties (like sports or neuro). It requires strong clinical reasoning and a major research dissertation."
+  },
+  {
+    "id": "bhm",
+    "name": "Bachelor of Hotel Management (BHM)",
+    "type": "UG",
+    "duration": "3 or 4 Years",
+    "subjectsPerSem": "Theory + Heavy Practical Labs",
+    "graduatesYearly": "50,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "BHM is physically demanding due to long practical hours in kitchens and front office training. The theoretical workload is moderate but emphasizes soft skills."
+  },
+  {
+    "id": "ballb",
+    "name": "B.A. LLB (Integrated Law)",
+    "type": "UG",
+    "duration": "5 Years (10 Semesters)",
+    "subjectsPerSem": "5-6 Subjects (Arts + Law)",
+    "graduatesYearly": "80,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "Integrated Law requires vast reading, case study analysis, and moot court participation over 5 years. It demands excellent memory and analytical skills."
+  },
+  {
+    "id": "bballb",
+    "name": "B.B.A. LLB (Integrated Law)",
+    "type": "UG",
+    "duration": "5 Years (10 Semesters)",
+    "subjectsPerSem": "5-6 Subjects (Business + Law)",
+    "graduatesYearly": "60,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "Combining management and law, this course has a dense curriculum. Expect continuous assessments, presentations, and rigorous legal research."
+  },
+  {
+    "id": "msw",
+    "name": "Master of Social Work (MSW)",
+    "type": "PG",
+    "duration": "2 Years (4 Semesters)",
+    "subjectsPerSem": "Theory + Heavy Fieldwork",
+    "graduatesYearly": "40,000+",
+    "difficultyLevel": "Medium to Hard",
+    "aiAnalysis": "MSW is emotionally and physically demanding due to mandatory extensive fieldwork and concurrent practical placements in NGOs or communities."
+  },
+  {
+    "id": "bsw",
+    "name": "Bachelor of Social Work (BSW)",
+    "type": "UG",
+    "duration": "3 Years",
+    "subjectsPerSem": "Theory + Fieldwork",
+    "graduatesYearly": "20,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "BSW balances classroom theory with practical community interventions. It requires strong empathy and communication skills."
+  },
+  {
+    "id": "bfa",
+    "name": "Bachelor of Fine Arts (BFA)",
+    "type": "UG",
+    "duration": "4 Years (8 Semesters)",
+    "subjectsPerSem": "Studio Dominant + Theory",
+    "graduatesYearly": "25,000+",
+    "difficultyLevel": "Medium to Hard",
+    "aiAnalysis": "BFA relies heavily on subjective grading and portfolio creation. It requires massive time dedication to studio work (painting, sculpture, etc.)."
+  },
+  {
+    "id": "bscnursing",
+    "name": "B.Sc Nursing",
+    "type": "UG",
+    "duration": "4 Years",
+    "subjectsPerSem": "Theory + Extensive Clinical Hours",
+    "graduatesYearly": "150,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "Nursing is highly demanding. It combines rigorous biology and pharmacology theory with exhausting, long clinical shifts in hospitals."
+  },
+  {
+    "id": "mscnursing",
+    "name": "M.Sc Nursing",
+    "type": "PG",
+    "duration": "2 Years",
+    "subjectsPerSem": "Advanced Theory + Clinics + Thesis",
+    "graduatesYearly": "25,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "M.Sc Nursing involves specializing in areas like pediatric or psychiatric nursing. It requires advanced clinical decision-making and a research thesis."
+  },
+  {
+    "id": "pharmd",
+    "name": "Doctor of Pharmacy (Pharm.D)",
+    "type": "PG/Integrated",
+    "duration": "6 Years (Includes 1 Year Internship)",
+    "subjectsPerSem": "Advanced Clinical Pharmacy + Ward Rounds",
+    "graduatesYearly": "15,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "Pharm.D is a grueling 6-year clinical program. It demands deep knowledge of pharmacotherapeutics, drug interactions, and extensive hospital ward rounds."
+  },
+  {
+    "id": "bstat",
+    "name": "Bachelor of Statistics (B.Stat)",
+    "type": "UG",
+    "duration": "3 Years",
+    "subjectsPerSem": "Intensive Math and Stats",
+    "graduatesYearly": "5,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "B.Stat (especially from institutes like ISI) is mathematically rigorous to the extreme. It requires exceptional logical and quantitative reasoning abilities."
+  },
+  {
+    "id": "bmath",
+    "name": "Bachelor of Mathematics (B.Math)",
+    "type": "UG",
+    "duration": "3 Years",
+    "subjectsPerSem": "Pure Mathematics",
+    "graduatesYearly": "3,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "B.Math dives into abstract and pure mathematics. It is conceptually very difficult and suited only for those with a profound aptitude for math."
+  },
+  {
+    "id": "phd",
+    "name": "Doctor of Philosophy (PhD)",
+    "type": "Doctorate",
+    "duration": "3 to 6 Years",
+    "subjectsPerSem": "Coursework + Massive Independent Research",
+    "graduatesYearly": "30,000+",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "A PhD requires producing novel, peer-reviewed research. It is an immense test of perseverance, critical thinking, and academic writing over several years."
+  },
+  {
+    "id": "pgdm",
+    "name": "Post Graduate Diploma in Management (PGDM)",
+    "type": "PG Diploma",
+    "duration": "2 Years",
+    "subjectsPerSem": "Industry Aligned Subjects + Projects",
+    "graduatesYearly": "200,000+",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "Similar to an MBA but often more industry-oriented. PGDM is fast-paced, highly competitive, and requires handling heavy loads of case studies and presentations."
+  },
+  {
+    "id": "bplan",
+    "name": "Bachelor of Planning (B.Plan)",
+    "type": "UG",
+    "duration": "4 Years",
+    "subjectsPerSem": "Theory + Planning Studios",
+    "graduatesYearly": "10,000+",
+    "difficultyLevel": "Medium to Hard",
+    "aiAnalysis": "B.Plan focuses on urban and regional planning. It requires strong spatial understanding, sociology, and economics, alongside heavy studio project work."
+  },
+  {
+    "id": "bed",
+    "name": "Bachelor of Education (B.Ed)",
+    "type": "UG",
+    "duration": "2 Years (Post-Graduation)",
+    "subjectsPerSem": "Theory + School Teaching Practice",
+    "graduatesYearly": "1,000,000+",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "B.Ed involves learning pedagogical theories and child psychology. The difficulty is balanced, but the mandatory teaching practice (internship) is rigorous."
+  },
+  {
+    "id": "google_1",
+    "name": "Google IT Support Professional Certificate",
+    "type": "Online / Google",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "441K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Google titled 'Google IT Support Professional Certificate' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "google_2",
+    "name": "Google Data Analytics Professional Certificate",
+    "type": "Online / Google",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "38K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Data Analytics Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_3",
+    "name": "Google Project Management Professional Certificate",
+    "type": "Online / Google",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "497K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Project Management Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_4",
+    "name": "Google UX Design Professional Certificate",
+    "type": "Online / Google",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "589K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Google UX Design Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_5",
+    "name": "Google IT Automation with Python Professional Certificate",
+    "type": "Online / Google",
+    "duration": "3 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "349K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Google IT Automation with Python Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_6",
+    "name": "Google Cybersecurity Professional Certificate",
+    "type": "Online / Google",
+    "duration": "3 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "664K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Google Cybersecurity Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_7",
+    "name": "Google Digital Marketing & E-commerce Professional Certificate",
+    "type": "Online / Google",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "594K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Digital Marketing & E-commerce Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_8",
+    "name": "Google Advanced Data Analytics Professional Certificate",
+    "type": "Online / Google",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "684K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Google Advanced Data Analytics Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_9",
+    "name": "Google Business Intelligence Professional Certificate",
+    "type": "Online / Google",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "48K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Google Business Intelligence Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_10",
+    "name": "Google Cloud Fundamentals: Core Infrastructure",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "355K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Google titled 'Google Cloud Fundamentals: Core Infrastructure' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "google_11",
+    "name": "Architecting with Google Compute Engine",
+    "type": "Online / Google",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "269K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Architecting with Google Compute Engine' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_12",
+    "name": "Data Engineering on Google Cloud",
+    "type": "Online / Google",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "164K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Data Engineering on Google Cloud' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_13",
+    "name": "Machine Learning on Google Cloud",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "61K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Machine Learning on Google Cloud' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_14",
+    "name": "Google Cloud Big Data and Machine Learning Fundamentals",
+    "type": "Online / Google",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "629K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Cloud Big Data and Machine Learning Fundamentals' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_15",
+    "name": "Reliable Google Cloud Infrastructure: Design and Process",
+    "type": "Online / Google",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "216K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Reliable Google Cloud Infrastructure: Design and Process' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_16",
+    "name": "Google Cloud Digital Leader Training",
+    "type": "Online / Google",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "302K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Cloud Digital Leader Training' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_17",
+    "name": "Preparing for Google Cloud Certification: Cloud Engineer",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "698K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Preparing for Google Cloud Certification: Cloud Engineer' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_18",
+    "name": "Preparing for Google Cloud Certification: Cloud Architect",
+    "type": "Online / Google",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "796K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Preparing for Google Cloud Certification: Cloud Architect' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_19",
+    "name": "Preparing for Google Cloud Certification: Data Engineer",
+    "type": "Online / Google",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "606K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Preparing for Google Cloud Certification: Data Engineer' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_20",
+    "name": "Preparing for Google Cloud Certification: Machine Learning Engineer",
+    "type": "Online / Google",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "663K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Preparing for Google Cloud Certification: Machine Learning Engineer' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_21",
+    "name": "Google Workspace Administration",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "710K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Google titled 'Google Workspace Administration' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "google_22",
+    "name": "Developing Applications with Google Cloud",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "181K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Developing Applications with Google Cloud' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_23",
+    "name": "Securing and Integrating Components of your Application",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "783K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Securing and Integrating Components of your Application' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_24",
+    "name": "Industrial IoT on Google Cloud",
+    "type": "Online / Google",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "490K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Google titled 'Industrial IoT on Google Cloud' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "google_25",
+    "name": "Smart Analytics, Machine Learning, and AI on GCP",
+    "type": "Online / Google",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "264K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Google titled 'Smart Analytics, Machine Learning, and AI on GCP' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_1",
+    "name": "Microsoft Azure Fundamentals (AZ-900)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "709K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure Fundamentals (AZ-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_2",
+    "name": "Microsoft Azure Data Fundamentals (DP-900)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "419K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure Data Fundamentals (DP-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_3",
+    "name": "Microsoft Azure AI Fundamentals (AI-900)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "295K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure AI Fundamentals (AI-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_4",
+    "name": "Microsoft Power Platform Fundamentals (PL-900)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "713K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Power Platform Fundamentals (PL-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_5",
+    "name": "Microsoft 365 Fundamentals (MS-900)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "613K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft 365 Fundamentals (MS-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_6",
+    "name": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "219K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Security, Compliance, and Identity Fundamentals (SC-900)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_7",
+    "name": "Microsoft Azure Administrator (AZ-104)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "288K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure Administrator (AZ-104)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "microsoft_8",
+    "name": "Developing Solutions for Microsoft Azure (AZ-204)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "18K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Developing Solutions for Microsoft Azure (AZ-204)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_9",
+    "name": "Microsoft Azure Security Technologies (AZ-500)",
+    "type": "Online / Microsoft",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "429K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure Security Technologies (AZ-500)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_10",
+    "name": "Designing and Implementing a Microsoft Azure AI Solution (AI-102)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "561K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Designing and Implementing a Microsoft Azure AI Solution (AI-102)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_11",
+    "name": "Designing an Azure Data Solution",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "397K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Designing an Azure Data Solution' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_12",
+    "name": "Microsoft Power BI Data Analyst (PL-300)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "565K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Power BI Data Analyst (PL-300)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_13",
+    "name": "Microsoft Azure Enterprise Data Analyst (DP-500)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "574K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure Enterprise Data Analyst (DP-500)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_14",
+    "name": "Microsoft Cybersecurity Architect (SC-100)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "438K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Cybersecurity Architect (SC-100)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_15",
+    "name": "Microsoft Identity and Access Administrator (SC-300)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "492K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Identity and Access Administrator (SC-300)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "microsoft_16",
+    "name": "Microsoft Information Protection Administrator (SC-400)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "238K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Information Protection Administrator (SC-400)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_17",
+    "name": "Administering Windows Server Hybrid Core Infrastructure (AZ-800)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "677K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Administering Windows Server Hybrid Core Infrastructure (AZ-800)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_18",
+    "name": "Configuring Windows Server Hybrid Advanced Services (AZ-801)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "780K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Configuring Windows Server Hybrid Advanced Services (AZ-801)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_19",
+    "name": "Designing and Implementing Microsoft DevOps Solutions (AZ-400)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "604K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Microsoft titled 'Designing and Implementing Microsoft DevOps Solutions (AZ-400)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "microsoft_20",
+    "name": "Microsoft Azure IoT Developer",
+    "type": "Online / Microsoft",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "539K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Azure IoT Developer' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "microsoft_21",
+    "name": "Microsoft Dynamics 365 Fundamentals (CRM)",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "764K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Dynamics 365 Fundamentals (CRM)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_22",
+    "name": "Microsoft Dynamics 365 Fundamentals (ERP)",
+    "type": "Online / Microsoft",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "243K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Dynamics 365 Fundamentals (ERP)' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "microsoft_23",
+    "name": "Microsoft Power Automate RPA Developer",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "172K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Power Automate RPA Developer' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "microsoft_24",
+    "name": "Microsoft Teams Administrator Associate",
+    "type": "Online / Microsoft",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "508K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Teams Administrator Associate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "microsoft_25",
+    "name": "Microsoft Power Pages Maker",
+    "type": "Online / Microsoft",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "612K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Microsoft titled 'Microsoft Power Pages Maker' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "meta_1",
+    "name": "Meta Front-End Developer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "70K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Meta Front-End Developer Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_2",
+    "name": "Meta Back-End Developer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "3 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "675K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Meta Back-End Developer Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_3",
+    "name": "Meta iOS Developer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "648K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Meta iOS Developer Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_4",
+    "name": "Meta Android Developer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "46K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Meta Android Developer Professional Certificate' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_5",
+    "name": "Meta Database Engineer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "59K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Meta Database Engineer Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_6",
+    "name": "Meta Social Media Marketing Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "319K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Meta Social Media Marketing Professional Certificate' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_7",
+    "name": "Meta Marketing Analytics Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "3 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "505K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Meta Marketing Analytics Professional Certificate' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_8",
+    "name": "Meta AR Developer Professional Certificate",
+    "type": "Online / Meta",
+    "duration": "8 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "360K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Meta AR Developer Professional Certificate' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_9",
+    "name": "Meta React Native Specialization",
+    "type": "Online / Meta",
+    "duration": "6 Months",
+    "subjectsPerSem": "4-8 Courses",
+    "graduatesYearly": "71K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Meta React Native Specialization' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_10",
+    "name": "Introduction to Front-End Development",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "643K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Introduction to Front-End Development' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_11",
+    "name": "Programming with JavaScript",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "491K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Programming with JavaScript' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_12",
+    "name": "Version Control",
+    "type": "Online / Meta",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "413K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Version Control' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_13",
+    "name": "HTML and CSS in depth",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "351K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'HTML and CSS in depth' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_14",
+    "name": "React Basics",
+    "type": "Online / Meta",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "675K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'React Basics' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_15",
+    "name": "Advanced React",
+    "type": "Online / Meta",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "713K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Advanced React' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_16",
+    "name": "Principles of UX/UI Design",
+    "type": "Online / Meta",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "187K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Principles of UX/UI Design' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_17",
+    "name": "Front-End Developer Capstone",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "750K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Front-End Developer Capstone' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_18",
+    "name": "Introduction to Back-End Development",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "750K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Introduction to Back-End Development' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_19",
+    "name": "Programming in Python",
+    "type": "Online / Meta",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "194K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Meta titled 'Programming in Python' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "meta_20",
+    "name": "The Full Stack",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "657K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'The Full Stack' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_21",
+    "name": "Django Web Framework",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "58K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Django Web Framework' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_22",
+    "name": "APIs",
+    "type": "Online / Meta",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "499K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'APIs' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "meta_23",
+    "name": "Back-End Developer Capstone",
+    "type": "Online / Meta",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "766K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Back-End Developer Capstone' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_24",
+    "name": "Introduction to iOS Mobile Application Development",
+    "type": "Online / Meta",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "52K+ Learners",
+    "difficultyLevel": "Easy",
+    "aiAnalysis": "This program by Meta titled 'Introduction to iOS Mobile Application Development' offers highly specialized training. It serves as an excellent entry point, requiring no prior experience."
+  },
+  {
+    "id": "meta_25",
+    "name": "Introduction to Android Mobile Application Development",
+    "type": "Online / Meta",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "602K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Meta titled 'Introduction to Android Mobile Application Development' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_1",
+    "name": "CS50's Introduction to Computer Science (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "333K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Introduction to Computer Science (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_2",
+    "name": "CS50's Web Programming with Python and JavaScript (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "413K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Web Programming with Python and JavaScript (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_3",
+    "name": "CS50's Introduction to Artificial Intelligence with Python (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "784K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Introduction to Artificial Intelligence with Python (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_4",
+    "name": "CS50's Introduction to Game Development (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "402K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Introduction to Game Development (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_5",
+    "name": "CS50's Introduction to Programming with Scratch (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "551K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Introduction to Programming with Scratch (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_6",
+    "name": "CS50's Introduction to Programming with Python (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "43K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Introduction to Programming with Python (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_7",
+    "name": "CS50's Understanding Technology (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "454K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'CS50's Understanding Technology (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_8",
+    "name": "Data Science: R Basics (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "168K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: R Basics (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_9",
+    "name": "Data Science: Visualization (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "280K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Visualization (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_10",
+    "name": "Data Science: Probability (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "457K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Probability (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_11",
+    "name": "Data Science: Inference and Modeling (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "688K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Inference and Modeling (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_12",
+    "name": "Data Science: Productivity Tools (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "175K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Productivity Tools (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_13",
+    "name": "Data Science: Wrangling (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "307K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Wrangling (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_14",
+    "name": "Data Science: Linear Regression (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "303K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Linear Regression (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_15",
+    "name": "Data Science: Machine Learning (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "529K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Machine Learning (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_16",
+    "name": "Data Science: Capstone (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "582K+ Learners",
+    "difficultyLevel": "Expert",
+    "aiAnalysis": "This program by Harvard University titled 'Data Science: Capstone (Harvard)' offers highly specialized training. This is a grueling, advanced-level course requiring deep dedication and strong analytical skills."
+  },
+  {
+    "id": "harvard_university_17",
+    "name": "Quantitative Methods for Biology (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "149K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Quantitative Methods for Biology (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_18",
+    "name": "Introduction to Data Science with Python (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "129K+ Learners",
+    "difficultyLevel": "Hard",
+    "aiAnalysis": "This program by Harvard University titled 'Introduction to Data Science with Python (Harvard)' offers highly specialized training. The curriculum is rigorous, heavily project-based, and expects prior foundational knowledge."
+  },
+  {
+    "id": "harvard_university_19",
+    "name": "High-Dimensional Data Analysis (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "373K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'High-Dimensional Data Analysis (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_20",
+    "name": "Entrepreneurship in Emerging Economies (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "69K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Entrepreneurship in Emerging Economies (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_21",
+    "name": "Justice (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "458K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Justice (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_22",
+    "name": "Masterpieces of World Literature (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "202K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Masterpieces of World Literature (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_23",
+    "name": "Buddhism Through Its Scriptures (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "6 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "319K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Buddhism Through Its Scriptures (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_24",
+    "name": "Child Protection: Children's Rights in Theory and Practice (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "4 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "404K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'Child Protection: Children's Rights in Theory and Practice (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  },
+  {
+    "id": "harvard_university_25",
+    "name": "The Effects of Climate Change on Health (Harvard)",
+    "type": "Online / Harvard University",
+    "duration": "8 Weeks",
+    "subjectsPerSem": "4-6 Modules",
+    "graduatesYearly": "21K+ Learners",
+    "difficultyLevel": "Medium",
+    "aiAnalysis": "This program by Harvard University titled 'The Effects of Climate Change on Health (Harvard)' offers highly specialized training. It demands consistent effort and is perfect for upskilling with intermediate concepts."
+  }
+]
